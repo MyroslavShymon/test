@@ -1,0 +1,1 @@
+export declare const CONFIG_SERVICE_TOKEN = "CONFIG_SERVICE_TOKEN";
